@@ -30,7 +30,8 @@ The dataset is enormous & consists of multiple deteministic factors like borrowe
 <h2> File Details</h2>
 
 <h3>Data Dictionary</h3>
-<p>
+
+
 | Column Name               | Data Type    | Category        | Description                    | Business Relevance               |
 | ------------------------- | ------------ | --------------- | ------------------------------ | -------------------------------- |
 | ID                        | Numeric      | Identifier      | Unique loan record ID          | Used to uniquely track each loan |
@@ -67,5 +68,5 @@ The dataset is enormous & consists of multiple deteministic factors like borrowe
 | open_credit               | Categorical  | Credit Profile  | Existing open credit lines     | Credit exposure measure          |
 | business_or_commercial    | Categorical  | Loan Category   | Business/commercial loan flag  | Different risk segment           |
 | Status                    | Binary (0/1) | Target Variable | Loan default outcome           | 1 = Default, 0 = Non-default     |
-</p>
+
 
