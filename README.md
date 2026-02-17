@@ -1,4 +1,4 @@
 # loan-defaulter-dashboard_and_data
 
 
-<img src="loan.jpg" alt="Project Screenshot" width="600" height="100">
+<img src="loan.jpg" alt="Project Screenshot" width="900" height="200">
