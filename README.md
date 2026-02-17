@@ -13,3 +13,17 @@ The dataset is enormous & consists of multiple deteministic factors like borrowe
 </p>
 <hr width="100%">
 
+
+<h3>Acknowledgements</h3>
+<hr width="200">
+<p>This dataset has been referred from Kaggle</p>
+<hr width="100%">
+
+<h3>Objective</h3>
+<hr width="200">
+<li>
+  <ul>Understand the Dataset & cleanup (if required).</ul>
+  <ul>Build classification model to predict weather the loan borrower will default or not.</ul>
+  <ul>Also fine-tune the hyperparameters & compare the evaluation metrics of vaious classification algorithms.</ul>
+</li>
+<hr width="100%">
