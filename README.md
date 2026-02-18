@@ -85,15 +85,6 @@ The project is structured with the following directories, each serving a specifi
 
 <hr width="100%">
 
-<h2>Screenshots</h2>
-
-### Project Overview
-<img src="./Images/loan.jpg" alt="Project Screenshot" width="1100" height="200">
-
-*(Additional dashboard screenshots can be added here)*
-
-<hr width="100%">
-
 <h2>Key Insights and Statistics</h2>
 
 Based on the analysis of the dataset, here are some critical statistics:
