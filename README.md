@@ -70,3 +70,10 @@ The dataset is enormous & consists of multiple deteministic factors like borrowe
 | Status                    | Binary (0/1) | Target Variable | Loan default outcome           | 1 = Default, 0 = Non-default     |
 
 
+Files Details 
+Screenshots 
+Key insights and statistics
+Anakysis and suggestion 
+Data cleaning notes 
+Dashboard Summeries 
+
